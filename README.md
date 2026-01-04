@@ -181,12 +181,12 @@ industry-recognized beginner-friendly platforms:
 ## 🤳 Connect with Me
 <p align="left">
 
-  <p>Connect with me on LinkedIn: </p><a href="https://linkedin.com/in/nurdamiamiftahmasail"> Nur Damia
+  <p>Connect with me on LinkedIn: </p>
+  <a href="https://linkedin.com/in/nurdamiamiftahmasail"> Nur Damia
   </a>
 
-  <p>Follow me on Instagram: </p><a href="https://www.instagram.com/damiyerrr/"> damiyerrr
+  <p>Follow me on Instagram: </p>
+  <a href="https://www.instagram.com/damiyerrr/"> damiyerrr
   </a>
 
-
-  
 </p>
