@@ -75,7 +75,7 @@ deliver high-quality, reliable software products.
 
 ## 👨‍💻 UI/UX Case Studies
 
-### 💳 ZapPay e-Wallet
+### 💳 ZapPay e-Wallet (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 **Role:** UI/UX Designer  
 **Focus:** Payment flow & usability  
 
@@ -87,7 +87,7 @@ deliver high-quality, reliable software products.
 
 ---
 
-### 🎧 Auralis Headphone
+### 🎧 Auralis Headphone (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 **Role:** UI/UX Designer  
 **Focus:** Product landing & visual hierarchy  
 
@@ -97,7 +97,7 @@ deliver high-quality, reliable software products.
 
 ---
 
-### 🏢 INFO-Tech Case Study
+### 🏢 INFO-Tech Case Study (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 **Role:** UI/UX Research & Design  
 
 - Conducted problem analysis and structured user flows
@@ -106,7 +106,7 @@ deliver high-quality, reliable software products.
 
 ---
 
-### 💄 Sobella App
+### 💄 Sobella App (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 **Role:** UI/UX Designer  
 **Focus:** Mobile app experience  
 
@@ -116,7 +116,7 @@ deliver high-quality, reliable software products.
 
 ---
 
-### 🍔 McDollah
+### 🍔 McDollah (https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 **Role:** UI/UX Designer  
 **Focus:** Ordering & delivery flow  
 
