@@ -187,8 +187,6 @@ industry-recognized beginner-friendly platforms:
   <p>Follow me on Instagram: </p><a href="https://www.instagram.com/damiyerrr/"> damiyerrr
   </a>
 
-  <a href="https://www.instagram.com/damiyerrr/">
-  </a>
 
   
 </p>
