@@ -180,10 +180,18 @@ industry-recognized beginner-friendly platforms:
 
 ## 🤳 Connect with Me
 <p align="left">
-<a href="https://linkedin.com/in/nurdamiamiftahmasail">
+
+  <a href="https://linkedin.com/in/nurdamiamiftahmasail">
   <img alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/damiyerrr/">
+  </a>
+
+  <a href="https://www.instagram.com/damiyerrr/">
   <img alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+  </a>
+
+  <a href="https://www.instagram.com/damiyerrr/">
+  <img alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/email.svg" />
+  </a>
+
+  
 </p>
