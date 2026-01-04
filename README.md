@@ -75,7 +75,7 @@ deliver high-quality, reliable software products.
 
 ## 👨‍💻 UI/UX Case Studies
 
-### 💳 ZapPay e-Wallet ([https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm](https://github.com/ddammeaa/ZapPay-e-Wallet.git))
+### 💳 ZapPay e-Wallet (https://github.com/ddammeaa/ZapPay-e-Wallet.git)
 **Role:** UI/UX Designer  
 **Focus:** Payment flow & usability  
 
