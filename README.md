@@ -143,6 +143,39 @@ and strong empathy for end users.
 - UI/UX case studies & usability testing
 - Hands-on testing projects and self-learning
 
+## 📘 Software Testing Learning Resources
+
+I actively learn software testing fundamentals and best practices using
+industry-recognized beginner-friendly platforms:
+
+- 📌 **Guru99 (Software Testing)**
+  - Manual Testing Basics
+  - SDLC & STLC
+  - Test Case Writing & Bug Life Cycle  
+  🔗 https://www.guru99.com/software-testing.html
+
+- 📌 **Software Testing Help**
+  - Real-world testing tutorials
+  - QA interview preparation
+  - Agile & Scrum testing  
+  🔗 https://www.softwaretestinghelp.com
+
+- 📌 **ISTQB Foundation Level (Concept Reference)**
+  - Testing principles
+  - SDLC testing activities
+  - Defect management  
+  🔗 https://www.istqb.org
+
+- 📌 **Ministry of Testing**
+  - QA community resources
+  - Testing concepts & career guidance  
+  🔗 https://www.ministryoftesting.com
+
+- 📌 **Postman Learning Center**
+  - API testing fundamentals
+  - Request validation & response checks  
+  🔗 https://learning.postman.com
+
 ---
 
 ## 🤳 Connect with Me
