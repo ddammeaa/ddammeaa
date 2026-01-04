@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Damia 👋</h1>
 <h3 align="center">
-Full-Time Software Support • UI/UX Enthusiast
+ • UI/UX Enthusiast • Full-Time Software Support • Aspiring Software Tester (QA)
+  <h3 align="center">
 </h3>
 
 <p align="center">
@@ -84,9 +85,8 @@ bridging the gap between users, design, and technology.
 
 ## 🔐 Technical & Security Background
 Alongside UI/UX, I have experience with:
-- Data Structures & Algorithms (Python)
 - Software Support & Troubleshooting
-- Cybersecurity fundamentals (case-study based)
+- Software Testing
 
 This background helps me design interfaces that are not only usable, but also
 technically feasible.
